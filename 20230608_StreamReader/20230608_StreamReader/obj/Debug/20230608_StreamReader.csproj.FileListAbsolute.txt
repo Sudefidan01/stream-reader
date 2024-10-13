@@ -1,0 +1,8 @@
+C:\Users\pcc\source\repos\20230608_StreamReader\20230608_StreamReader\bin\Debug\20230608_StreamReader.exe.config
+C:\Users\pcc\source\repos\20230608_StreamReader\20230608_StreamReader\bin\Debug\20230608_StreamReader.exe
+C:\Users\pcc\source\repos\20230608_StreamReader\20230608_StreamReader\bin\Debug\20230608_StreamReader.pdb
+C:\Users\pcc\source\repos\20230608_StreamReader\20230608_StreamReader\obj\Debug\20230608_StreamReader.csproj.AssemblyReference.cache
+C:\Users\pcc\source\repos\20230608_StreamReader\20230608_StreamReader\obj\Debug\20230608_StreamReader.csproj.SuggestedBindingRedirects.cache
+C:\Users\pcc\source\repos\20230608_StreamReader\20230608_StreamReader\obj\Debug\20230608_StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\pcc\source\repos\20230608_StreamReader\20230608_StreamReader\obj\Debug\20230608_StreamReader.exe
+C:\Users\pcc\source\repos\20230608_StreamReader\20230608_StreamReader\obj\Debug\20230608_StreamReader.pdb
